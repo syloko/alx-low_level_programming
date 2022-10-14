@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main-prints the size of various types on the computer it is run on.
+/**
+ * main-prints the size of various types on the computer it is run on.
  * return: should return 0 if exited properly.
  */
 
