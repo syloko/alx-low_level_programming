@@ -8,7 +8,7 @@
 * Returns a value of (0) for each successful run
 */
 
-int main(void)
+int main(void) /* prints out a random value for n each time */ 
 {
 	int n;
 
