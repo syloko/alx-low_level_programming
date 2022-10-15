@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
-* Main: displays a random number for n each time program is run
-* and begins on a new line.
+* main - generates a random number for n each time program is run..
 * Return: (0) for each successful run, error if otherwise.
 */
 int main(void)
@@ -17,15 +16,15 @@ int main(void)
 
 	if (n > 0)
 
-	printf("%d is positive\n", n);
+	printf("%i is positive\n", n);
 
 	else if (n == 0)
 
-	printf("%d is zero\n", n);
+	printf("%i is zero\n", n);
 
 	else if (n < 0)
 
-	printf("%d is negative", n);
+	printf("%i is negative", n);
 
 	return (0);
 }
