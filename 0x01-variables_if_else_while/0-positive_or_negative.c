@@ -2,13 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
 * Main displays a random number for n each time program is run
 * and begins on a new line.
 * Returns a value of (0) for each successful run
 */
 
-int main(void) /* prints out a random value for n each time */ 
+int main(void)/* prints out a random value for n each time */
 {
 	int n;
 
