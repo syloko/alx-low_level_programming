@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
-* Main displays a random number for n each time program is run
+* Main: displays a random number for n each time program is run
 * and begins on a new line.
-* Returns a value of (0) for each successful run
+* Return: (0) for each successful run, error if otherwise.
 */
 int main(void)
 {
